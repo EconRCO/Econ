@@ -1,0 +1,2 @@
+_G.ECON_AUTOLOAD = true;
+loadstring(game:HttpGet'https://raw.githubusercontent.com/EconRCO/Econ/refs/heads/main/Init')();
